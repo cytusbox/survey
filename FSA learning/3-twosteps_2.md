@@ -34,10 +34,6 @@
 
 ## Example
 
-<img src="C:\Users\A-305\AppData\Roaming\Typora\typora-user-images\image-20220924165858150.png" alt="image-20220924165858150" style="zoom:50%;" />
-
-<img src="C:\Users\A-305\AppData\Roaming\Typora\typora-user-images\image-20220924170623293.png" alt="image-20220924170623293" style="zoom:50%;" />
-
 
 ## motivation
 
