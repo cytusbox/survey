@@ -74,9 +74,19 @@ Algorithms that infer finite-state automaton (FSA) based specifications from exe
 
 
 ## approach
-
-
-
+In our framework, there are three major processes: test case generation and traces collection, Recurrent Neural Network Based Language Model (RNNLM) learning, and automata construction.
+### I
+**test case generation and traces collection**
+we choose Randoop because it is widely used and lightweight.
+### II
+**RNNLM**
+LSTM
+### III
+**Automata Construction**
+迹的采样
+前缀树接受器
+预测FSA的精确度
+聚类
 ## experiment
 
 ### Dataset
